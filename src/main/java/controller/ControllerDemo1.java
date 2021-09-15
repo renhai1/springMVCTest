@@ -9,5 +9,5 @@ import org.springframework.stereotype.Controller;
  * @create: 2021-09-15 22:01
  */
 @Controller
-public class ControllerDemo {
+public class ControllerDemo1 {
 }
